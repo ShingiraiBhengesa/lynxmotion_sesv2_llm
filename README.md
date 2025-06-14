@@ -1,1 +1,1 @@
-# lynxmotion_sesv2_llm
+# Lynxmotion Robotic Arm Configuration - VLM Controlled
